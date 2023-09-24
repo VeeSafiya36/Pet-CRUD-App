@@ -1,0 +1,22 @@
+.user-container {
+  background-color: burlywood;
+  color:black;
+  justify-content: center;
+  display: flex;
+  margin-top: 2em;
+  padding: 5px;
+  border: solid black;
+}
+
+.post-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2em;
+  padding: 5px;
+}
+
+.post-container input {
+  margin-bottom: 1em;
+}
